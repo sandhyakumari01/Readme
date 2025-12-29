@@ -1,6 +1,5 @@
 <p align="center">
- <img width="1536" height="1024" alt="profile" src="https://github.com/user-attachments/assets/6127dc16-38c2-45be-a02e-86a238092cf3" />
-
+<img width="1264" height="450" alt="profile" src="https://github.com/user-attachments/assets/658c73b1-da49-4000-a248-d2431002b1d8" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sandhya</h1>
