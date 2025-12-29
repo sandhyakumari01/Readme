@@ -28,35 +28,24 @@
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend & Mobile
-- **Next.js**
-- **React.js**
-- **React Native**
-- **Vite**
-- **Redux**
-- **JavaScript**
-- **HTML**
-- **CSS**
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white) 
+![React](https://img.shields.io/badge/React-blue?style=flat&logo=react&logoColor=white) 
+![React Native](https://img.shields.io/badge/React_Native-blue?style=flat&logo=react&logoColor=white) 
+![Vite](https://img.shields.io/badge/Vite-purple?style=flat&logo=vite&logoColor=white) 
+![Redux](https://img.shields.io/badge/Redux-purple?style=flat&logo=redux&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=black)
 
 ### 🎨 UI & Styling
-- **Tailwind CSS**
-- **Bootstrap**
-- **Material UI**
-- **Shadcn UI**
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-blue?style=flat&logo=tailwind-css&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white) 
+![Material UI](https://img.shields.io/badge/Material_UI-blue?style=flat&logo=mui&logoColor=white) 
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-pink?style=flat)
 
 ### 🔧 Backend & Tools
-- **Node.js**
-- **Figma** (UI/UX Design & Prototyping)
-- **Git & GitHub**
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white"/>
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-red?style=flat&logo=figma&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-red?style=flat&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)
 
 ---
 
