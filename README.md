@@ -63,7 +63,7 @@
 
 ## 📫 Connect With Me
 
-- 💼 GitHub: https://github.com/YOUR_USERNAME
+- 💼 GitHub: https://github.com/sandhyakumari01
 - 🌐 Portfolio: Coming Soon
 - 🤝 Open to collaboration and learning opportunities
 
