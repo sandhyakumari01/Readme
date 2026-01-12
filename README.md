@@ -85,6 +85,7 @@
 ## 📫 Connect With Me
 
 - 💼 GitHub: https://github.com/sandhyakumari01
+- LinkedIn: https://www.linkedin.com/in/sandhyakumari01
 - 🌐 Portfolio: Coming Soon
 - 🤝 Open to collaboration and learning opportunities
 
